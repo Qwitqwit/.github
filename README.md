@@ -6,7 +6,7 @@ A collction of opensource software that solves opening and operationg big csv an
 
 DSV Schema describe the shape and typing of a csv file
 
-The following csv files may be described as:
+The following csv files may be described as in the Schema:
 
 file:
 
@@ -17,7 +17,8 @@ id;name;price;category
 12;toast;bakedGoods
 
 
-Schema as csv
+Schema as csv:
+
 header;type;colRequired;valRequired;misc
 id;integer;true;true;
 name;string;true;false;
