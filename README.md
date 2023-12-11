@@ -8,7 +8,8 @@ DSV Schema describe the shape and typing of a csv file
 
 The following csv files may be described as:
 
-file: 
+file:
+
 id;name;price;category
 18280;apple;16.7;fruit
 737;batmeat;8980.8;illegal
