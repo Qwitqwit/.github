@@ -25,7 +25,7 @@ header;type;colRequired;valRequired;misc
 id;integer;true;true;
 name;string;true;false;
 price;float;true;false;default=0
-category;enum;true;false;values=fruit,illegal,bakedGoods
+category;enum;true;false;fruit,illegal,bakedGoods
 ```
 
 Types:
