@@ -1,3 +1,6 @@
+
+<img src='https://github.com/qwitqwit/.github/blob/main/profile/qwitqwit.png?raw=true' width='205'>
+
 # Qwitqwit
 
 A collction of opensource software that solves opening and operationg big csv and dsv files.
